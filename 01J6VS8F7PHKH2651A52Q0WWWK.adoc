@@ -10,7 +10,8 @@ v1.0.0: publish
 :lang: ja
 :tabsize: 2
 :copyright: Copyright © 2024 n0nakamura
-:docdatetime: 2024-09-03T20:38:17+0900
+:firstdocdatetime: 2024-09-03T20:38:17+0900
+:docdatetime: 2024-09-04T22:53:17+0900
 :description: Webサイトを改善しようと思って数ヶ月が経過しているため、方針を見直す話。
 :keywords: blog, web site
 
