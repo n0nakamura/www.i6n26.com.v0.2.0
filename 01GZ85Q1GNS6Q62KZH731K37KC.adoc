@@ -1,0 +1,27 @@
+= ⁢ - i6n26
+n0nakamura
+v0.0.1: draft
+:backend: xhtml5
+:experimental:
+:sectnums: 
+:sectnumlevels: 2
+:sectlinks: 
+:toc: auto
+:lang: ja
+:tabsize: 2
+:favicon: 01GSH7D013HQPGGT11GD277EN2.svg
+:stylesheet: style_asciidoctor.css
+:linkcss:
+:copycss:
+:copyright: Copyright © 2023 n0nakamura
+:description: 
+:keywords: 
+
+[WARNING]
+====
+include::01GX2YHTCNZB241VGP2K2NDZ6A.adoc[]
+====
+
+== 数学の記号について
+
+本記事のタイトルに使われた文字 U+2062 ``⁢`` はINVISIBLE TIMESと呼ばれる記号であるfootnote:[link:https://unicode-explorer.com/c/2062[⁢ U+2062 INVISIBLE TIMES - Unicode Explorer]]．

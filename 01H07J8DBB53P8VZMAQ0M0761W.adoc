@@ -1,0 +1,32 @@
+= 時間管理ウェブアプリケーションを作製する - i6n26
+n0nakamura
+v0.0.1: draft
+:backend: xhtml5
+:experimental:
+:sectnums: 
+:sectnumlevels: 2
+:sectlinks: 
+:toc: auto
+:lang: ja
+:tabsize: 2
+:favicon: 01GSH7D013HQPGGT11GD277EN2.svg
+:stylesheet: style_asciidoctor.css
+:linkcss:
+:copycss:
+:copyright: Copyright © 2023 n0nakamura
+:description: n0nakamuraがTypeScriptの学習のため、時間管理アプリケーションを作製する。
+:keywords: TypeScript
+
+== 開発環境の構築
+
+TypeScriptを用いる。フレームワークはSolidJS/TailwindCSSを使う。
+
+[source, console]
+.開発環境の構築
+----
+$ curl https://get.volta.sh | bash -s -- --skip-setup
+$ volta install node@latest
+$ npx degit solidjs/templates/ts-tailwindcss chrns
+$ cd chrns
+$ npm install
+----
