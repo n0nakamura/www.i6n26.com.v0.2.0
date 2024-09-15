@@ -1,0 +1,35 @@
+[#01J7T91XZ9W598XNFDJFQCFMBZ]
+= 心と共感について
+n0nakamura
+v0.1.0: draft
+:experimental:
+:sectnums: 
+:sectnumlevels: 2
+:sectlinks: 
+:toc: auto
+:lang: ja
+:tabsize: 2
+:copyright: Copyright © 2024 n0nakamura
+:firstdocdatetime: 2024-09-15T16:25:40+0900
+:docdatetime: 2024-09-15T16:25:40+0900
+:description: 心について改めて考えを整理し、共感について考察する。
+:keywords: 心, 心理学, 行動分析学, 共感
+
+[#01J7T9BAVWB3H53R0B6XDKH4WB]
+== 心とは何か
+
+ここでは幾重にも重ねられてきた心の議論を改めて行うことはせず、各情報資源を参照, 引用し、人々や学問が心という概念をどう捉えて利用しているか、整理する。
+まずは心に関係しそうな名辞を以下に列挙する。
+
+* 知覚
+* 注意
+* 記憶
+* 知識
+* 思考
+* 言語
+* 感情
+* 情動
+* 欲求
+* 動機
+* 意図
+* 意思決定
