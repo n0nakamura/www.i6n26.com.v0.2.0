@@ -1,0 +1,28 @@
+[#01J7STYWEHBQXJ9C2GEYJ24ZTW]
+= 知識、ログ、タスクなどをまとめて管理するシステム
+n0nakamura
+v0.1.0: draft
+:experimental:
+:sectnums: 
+:sectnumlevels: 2
+:sectlinks: 
+:toc: auto
+:lang: ja
+:tabsize: 2
+:copyright: Copyright © 2024 n0nakamura
+:firstdocdatetime: 2024-09-15T12:18:17+0900
+:docdatetime: 2024-09-15T12:18:17+0900
+:description: Org modeに不満を感じる箇所がいくつかあったので、改めて知識やログ、タスクなどまとめて管理するシステムについて考える。
+:keywords: log, documentation
+
+[#01J7SV86TKRVG6PMSZJV1EAP24]
+== そもそも何を管理したいのか？
+
+[#01J7SV8R4X9DG1N2B7574PZ3VG]
+== Org modeへの不満
+
+[#01J7SV5YZY7PPA4S9D6Z0ZJF6Y]
+=== 日時
+
+[#01J7SV7XG1AB66E8YRG6AHJ624]
+=== TODO
