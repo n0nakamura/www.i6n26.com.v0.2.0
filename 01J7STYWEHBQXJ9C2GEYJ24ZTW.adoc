@@ -1,7 +1,7 @@
 [#01J7STYWEHBQXJ9C2GEYJ24ZTW]
 = タスク、ログ、知識などをまとめて管理するシステム
 n0nakamura
-v0.1.0: draft
+v0.1.1: draft
 :experimental:
 :sectnums: 
 :sectnumlevels: 2
@@ -11,7 +11,7 @@ v0.1.0: draft
 :tabsize: 2
 :copyright: Copyright © 2024 n0nakamura
 :firstdocdatetime: 2024-09-15T12:18:17+0900
-:docdatetime: 2024-09-15T12:18:17+0900
+:docdatetime: 2024-09-15T13:36:59+0900
 :description: Org modeに不満を感じる箇所がいくつかあったので、改めてタスク、ログ、知識などまとめて管理するシステムについて考える。
 :keywords: log, documentation
 
